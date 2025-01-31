@@ -1,3 +1,3 @@
 # demo-rep
 This is my first git repository\
-Author - Amadturi
+Author - Amadturi (parachinar)
